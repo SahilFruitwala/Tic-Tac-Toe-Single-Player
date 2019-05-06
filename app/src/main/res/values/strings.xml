@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="reset">Reset</string>
+    <string name="win_none">Win : None</string>
+    <string name="win_user">Win : User</string>
+    <string name="win_system">Win : System</string>
+    <string name="turn_system">Turn : User</string>
+    <string name="turn_user">Turn : System</string>
+    <string name="choose_your_option">Choose Your Option</string>
+    <string name="players">Players</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+</resources>
